@@ -19,6 +19,29 @@
   </a>
 </div>
 
+# Project Name
+
+Short description of your project goes here.
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
+Provide a detailed description of your project here. Explain what it does, why it's useful, and any other relevant information.
+
+## Installation
+
+Provide instructions on how to install your project. Include any prerequisites and the installation process itself.
+
+```bash
+pip install your-package-name
+
 ###
 
 # ✍️ Quoute Of The Day
