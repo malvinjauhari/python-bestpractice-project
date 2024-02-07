@@ -19,9 +19,9 @@
   </a>
 </div>
 
-# Project Name
+# Python Project
 
-Short description of your project goes here.
+Make The Easy Project Of Python With Python languages
 
 ## Table of Contents
 
