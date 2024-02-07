@@ -45,10 +45,6 @@ pip install your-package-name
 ###
 
 
-# ✍️ Quoute Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 
 
