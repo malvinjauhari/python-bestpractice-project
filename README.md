@@ -43,14 +43,20 @@ Make The Easy Project Of Python With Python languages
 
 Provide a detailed description of your project here. Explain what it does, why it's useful, and any other relevant information.
 
+
 ## Installation
 
-Provide instructions on how to install your project. Include any prerequisites and the installation process itself.
+Install python-bestpractice-project
 
 ```bash
-pip install your-package-name
+  git clone https://github.com/malvinjauhari/python-bestpractice-project.git
+  cd python-bestpractice-project
+```
 
-###
+## 🚀 About Me
+Alvin Jauhari -  Front End Web Developer
+
+
 
 
 
