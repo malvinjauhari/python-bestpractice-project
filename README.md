@@ -23,7 +23,7 @@
 
 Make The Easy Project Of Python With Python languages
 
-## Table of Contents
+## List Of Contents
 
 - [Description](#description)
 - [Installation](#installation)
