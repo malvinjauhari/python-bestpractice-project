@@ -39,11 +39,6 @@ Make The Easy Project Of Python With Python languages
 - [YOUTUBEMP3_Downloader](#YOUTUBEMP3_Downloader)   
 - [YoutubeMP4_Downloader](#YoutubeMP4_Downloader)
 
-## Description
-
-Provide a detailed description of your project here. Explain what it does, why it's useful, and any other relevant information.
-
-
 ## Installation
 
 Install python-bestpractice-project
